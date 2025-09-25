@@ -1,3 +1,4 @@
 module test-scheduler
 
-go 1.21
+
+go 1.24.3
